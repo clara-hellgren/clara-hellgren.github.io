@@ -1,2 +1,1 @@
-# Heading
-## Subheading 
+## BINP17 test page
