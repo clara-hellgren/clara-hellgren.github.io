@@ -9,3 +9,6 @@ I'm a Bioinformatics student at Lund University.
 
 ## Current projects
 ...
+
+## Contact
+Email: clarahellgren45@gmail.com
